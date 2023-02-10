@@ -1,0 +1,12 @@
+2023-02-10 15:12:57.432 EST [51418] LOG:  starting PostgreSQL 14.7 (Homebrew) on x86_64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.202), 64-bit
+2023-02-10 15:12:57.433 EST [51418] LOG:  listening on IPv6 address "::1", port 5432
+2023-02-10 15:12:57.433 EST [51418] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-02-10 15:12:57.434 EST [51418] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-02-10 15:12:57.438 EST [51419] LOG:  database system was shut down at 2023-02-10 15:11:49 EST
+2023-02-10 15:12:57.441 EST [51418] LOG:  database system is ready to accept connections
+2023-02-10 15:13:02.984 EST [51429] FATAL:  database "alexlazarev" does not exist
+2023-02-10 15:13:28.753 EST [51862] FATAL:  database "alexlazarev" does not exist
+2023-02-10 15:17:23.098 EST [54933] FATAL:  database "alexlazarev" does not exist
+2023-02-10 15:19:27.547 EST [54990] FATAL:  database "alexlazarev" does not exist
+2023-02-10 15:20:06.267 EST [55291] FATAL:  database "airbnb_clone_development" does not exist
+2023-02-10 15:20:06.830 EST [55292] FATAL:  database "airbnb_clone_development" does not exist
