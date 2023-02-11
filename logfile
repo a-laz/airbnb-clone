@@ -10,3 +10,4 @@
 2023-02-10 15:19:27.547 EST [54990] FATAL:  database "alexlazarev" does not exist
 2023-02-10 15:20:06.267 EST [55291] FATAL:  database "airbnb_clone_development" does not exist
 2023-02-10 15:20:06.830 EST [55292] FATAL:  database "airbnb_clone_development" does not exist
+2023-02-10 18:58:56.761 EST [59867] LOG:  using stale statistics instead of current ones because stats collector is not responding
